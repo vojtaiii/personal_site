@@ -13,12 +13,10 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: MM
-email:
+title: Vojtech Illner personal site
+email: vojta.illner@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Vojtech Illner personal site with info, contacts and useful content.
 twitter_username: username
 github_username: username
 minimal_mistakes_skin: default
@@ -58,34 +56,25 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  name   : "Vojtěch Illner"
+  avatar : "/assets/images/sami_photo.jpg"
+  bio    : "Here you can find some relevant info together with useful links and manuals about things I worked on."
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+    - label: "LinkedIn"
+      icon: "fas fa-fw fa-linkedin-square"
+      url: "https://www.linkedin.com/in/vojt%C4%9Bch-illner-5813471a3/"
+    - label: "My band"
+      icon: "fab fa-fw fa-music"
+      url: "https://www.facebook.com/roztrhlejdedac"
+    - label: "Online punk radio app"
+      icon: "fab fa-fw fa-mobile"
+      url: "https://radio.sumys.cz/"
 
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+    - label: "Contact"
+      icon: "fab fa-fw fa-at"
+      url: "https://vojtaiii.github.io/personal_site/"
 
 defaults:
   # _posts
