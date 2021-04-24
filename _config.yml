@@ -74,7 +74,7 @@ footer:
   links:
     - label: "Contact"
       icon: "fa fa-at"
-      url: "https://vojtaiii.github.io/personal_site/"
+      url: "https://vojtaiii.github.io/personal_site/about/"
 
 defaults:
   # _posts

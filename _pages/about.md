@@ -1,6 +1,6 @@
 ---
 permalink: /about/
-title: "About"
+title: "About me"
 ---
 
 I am a phd student at CTU in Prague at the Faculty of Electrical Engineering
@@ -14,6 +14,12 @@ of innovation and improvement.
 
 Among my parsonal interests you can find running, orienteering, cycling, swimming, cross-country skiing, hiking, guitar, analogue
 and digital photography, listening to music, PC games and documents design.
+
+## Contact
+
+vojtech.illner (at) fel.cvut.cz
+
+vojta.illner (at) gmail.com
 
 ## Published articles
 
