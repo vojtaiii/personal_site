@@ -66,10 +66,10 @@ author:
       icon: "fab fa-linkedin-in"
       url: "https://www.linkedin.com/in/vojt%C4%9Bch-illner-5813471a3/"
     - label: "My band"
-      icon: "fa fa-music"
+      icon: "fas fa-guitar"
       url: "https://www.facebook.com/roztrhlejdedac"
     - label: "Online punk radio app"
-      icon: "fa fa-mobile"
+      icon: "fas fa-mobile"
       url: "https://radio.sumys.cz/"
 
 footer:
