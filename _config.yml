@@ -61,13 +61,13 @@ author:
   bio    : "Here you can find some relevant info together with useful links and manuals about things I worked on."
   links:
     - label: "LinkedIn"
-      icon: "fa-linkedin-square"
+      icon: "fa fa-linkedin-square"
       url: "https://www.linkedin.com/in/vojt%C4%9Bch-illner-5813471a3/"
     - label: "My band"
-      icon: "fab fa-fw fa-music"
+      icon: "fa fa-music"
       url: "https://www.facebook.com/roztrhlejdedac"
     - label: "Online punk radio app"
-      icon: "fab fa-fw fa-mobile"
+      icon: "fa fa-mobile"
       url: "https://radio.sumys.cz/"
 
 footer:
