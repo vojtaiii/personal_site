@@ -10,5 +10,7 @@ tags:
 
 Script for transcribing audio files into syllables using Google Cloud and Pyphen library. Used for speech rate estimation with superb precision.
 
-<div class="github-card" data-github="google_speech_to_syllables" data-width="400" data-height="" data-theme="default"></div>
+Check the git repository below:
+
+<div class="github-card" data-github="vojtaiii/google_speech_to_syllables" data-width="400" data-height="" data-theme="default"></div>
 <script src="//cdn.jsdelivr.net/github-cards/latest/widget.js"></script>
