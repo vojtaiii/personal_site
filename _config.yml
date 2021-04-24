@@ -18,9 +18,10 @@ email: vojta.illner@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Vojtech Illner personal site with info, contacts and useful content.
 logo: "/assets/images/mountain.png"
+dateformat: "%B %-d, %Y"
 twitter_username: username
 github_username: username
-minimal_mistakes_skin: air
+minimal_mistakes_skin: dirt
 search: true
 
 # Build settings
@@ -62,7 +63,7 @@ author:
   bio    : "Here you can find some relevant info together with useful links and manuals about things I worked on."
   links:
     - label: "LinkedIn"
-      icon: "fa fa-address-book"
+      icon: "fab fa-linkedin-in"
       url: "https://www.linkedin.com/in/vojt%C4%9Bch-illner-5813471a3/"
     - label: "My band"
       icon: "fa fa-music"
@@ -86,7 +87,7 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: true
+      comments: false
       share: true
       related: true
   # _pages
