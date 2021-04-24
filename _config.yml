@@ -57,7 +57,7 @@ plugins:
 
 author:
   name   : "Vojtěch Illner"
-  avatar : "/assets/images/sami_photo.jpg"
+  avatar : "/assets/images/sami_photo2.jpg"
   bio    : "Here you can find some relevant info together with useful links and manuals about things I worked on."
   links:
     - label: "LinkedIn"
