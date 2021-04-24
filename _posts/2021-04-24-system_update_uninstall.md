@@ -27,7 +27,6 @@ connected to the PC, choose "Allow" in the popup window "Allow USB debugging".
     ```shell
     adb devices
     ```
-
 The device should be part of the list in a form of code and "device" attribute. If not try to
 reconnect or check if the steps above are done correctly.
 6. Run the commands
@@ -36,7 +35,6 @@ reconnect or check if the steps above are done correctly.
     adb shell
     pm uninstall -k –user 0 com.huawei.android.hwouc
     ```
-
 instead of `com.huawei.android.hwouc` you may type any other package name (bloatware) and it will be removed alike.
 7. You should be granted with a success message. Now is the system update fully uninstalled.
 Safely unplug the phone. Exit the environment by executing two exits:

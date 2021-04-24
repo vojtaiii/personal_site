@@ -17,6 +17,7 @@ title: Vojtech Illner personal site
 email: vojta.illner@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Vojtech Illner personal site with info, contacts and useful content.
+logo: "/assets/images/mountain.png"
 twitter_username: username
 github_username: username
 minimal_mistakes_skin: air
