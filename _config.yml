@@ -19,7 +19,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Vojtech Illner personal site with info, contacts and useful content.
 twitter_username: username
 github_username: username
-minimal_mistakes_skin: default
+minimal_mistakes_skin: air
 search: true
 
 # Build settings
@@ -61,7 +61,7 @@ author:
   bio    : "Here you can find some relevant info together with useful links and manuals about things I worked on."
   links:
     - label: "LinkedIn"
-      icon: "fa fa-linkedin-square"
+      icon: "fa fa-linkedin"
       url: "https://www.linkedin.com/in/vojt%C4%9Bch-illner-5813471a3/"
     - label: "My band"
       icon: "fa fa-music"
@@ -73,7 +73,7 @@ author:
 footer:
   links:
     - label: "Contact"
-      icon: "fab fa-fw fa-at"
+      icon: "fa fa-at"
       url: "https://vojtaiii.github.io/personal_site/"
 
 defaults:
