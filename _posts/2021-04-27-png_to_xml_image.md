@@ -52,8 +52,8 @@ to oblivion in my mind. Luckily being able to trace back the solution I am posti
 
 ![alt text][icon_final]
 
-[icon_prev]: https://github.com/vojtaiii/personal_site/tree/gh-pages/assets/images/png_xml/icon_prev.jpg
-[sumys_png]: https://github.com/vojtaiii/personal_site/tree/gh-pages/assets/images/png_xml/sumys_notification.png
-[sumys_background]: https://github.com/vojtaiii/personal_site/tree/gh-pages/assets/images/png_xml/icon_background.jpg
-[sumys_nobackground]: https://github.com/vojtaiii/personal_site/tree/gh-pages/assets/images/png_xml/icon_nobackground.jpg
-[sumys_final]: https://github.com/vojtaiii/personal_site/tree/gh-pages/assets/images/png_xml/icon_final.jpg
+[icon_prev]: https://github.com/vojtaiii/personal_site/blob/gh-pages/assets/images/png_xml/icon_prev.JPG?raw=true
+[sumys_png]: https://github.com/vojtaiii/personal_site/blob/gh-pages/assets/images/png_xml/sumys_notification.png?raw=true
+[sumys_background]: https://github.com/vojtaiii/personal_site/blob/gh-pages/assets/images/png_xml/icon_background.JPG?raw=true
+[sumys_nobackground]: https://github.com/vojtaiii/personal_site/blob/gh-pages/assets/images/png_xml/icon_nobackground.JPG?raw=true
+[sumys_final]: https://github.com/vojtaiii/personal_site/blob/gh-pages/assets/images/png_xml/icnon_final.JPG?raw=true
