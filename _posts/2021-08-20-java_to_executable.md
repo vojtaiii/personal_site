@@ -31,6 +31,11 @@ val fatJar = task("fatJar", type = Jar::class) {
     with(tasks.jar.get() as CopySpec)
 }
 
+tasks {
+    "build" {
+        dependsOn(fatJar)
+    }
+}
 ```
 
 To build a fat JAR, select the Gradle panel from the right side of the IDE. Go to `Tasks -> other` and execute the `fatJAR` task. 
