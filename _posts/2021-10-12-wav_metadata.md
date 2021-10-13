@@ -119,10 +119,10 @@ accessWave.write(
                     'A'.code.toByte(),
                     'R'.code.toByte(),
                     'T'.code.toByte(),
-                    infoLittleBytes[4], // the size of IART field value
-                    infoLittleBytes[5],
-                    infoLittleBytes[6],
-                    infoLittleBytes[7],
+                    infoBytes[4], // the size of IART field value
+                    infoBytes[5],
+                    infoBytes[6],
+                    infoBytes[7],
                     artistChar[0].code.toByte(), // the first parameter, saved in IART
                     artistChar[1].code.toByte(),
                     artistChar[2].code.toByte(),
@@ -133,10 +133,10 @@ accessWave.write(
                     'P'.code.toByte(),
                     'R'.code.toByte(),
                     'D'.code.toByte(),
-                    infoLittleBytes[8], // the size of IPRD field value (Int)
-                    infoLittleBytes[9],
-                    infoLittleBytes[10],
-                    infoLittleBytes[11],
+                    infoBytes[8], // the size of IPRD field value (Int)
+                    infoBytes[9],
+                    infoBytes[10],
+                    infoBytes[11],
                     albumChar[0].code.toByte(), // the second parameter, saved in IPRD
                     albumChar[1].code.toByte(),
                     albumChar[2].code.toByte(),
@@ -151,10 +151,10 @@ accessWave.write(
                     'G'.code.toByte(),
                     'N'.code.toByte(),
                     'R'.code.toByte(),
-                    infoLittleBytes[12], // the size of IGNR field value (Int)
-                    infoLittleBytes[13],
-                    infoLittleBytes[14],
-                    infoLittleBytes[15],
+                    infoBytes[12], // the size of IGNR field value (Int)
+                    infoBytes[13],
+                    infoBytes[14],
+                    infoBytes[15],
                     genreSize[0].code.toByte(), // the third parameter, saved in IGNR
                     genreSize[1].code.toByte(),
                     genreSize[2].code.toByte(),
