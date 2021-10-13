@@ -19,7 +19,7 @@ The normal process would cover creating an *artifact* for the JAR file in the ID
 
 In your `build.gradle.kts` include the following block introducing the fat JAR:
 
-```
+```kotlin
 val fatJar = task("fatJar", type = Jar::class) {
     baseName = "${project.name}-fat"
     manifest {
