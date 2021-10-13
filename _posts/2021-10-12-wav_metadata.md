@@ -12,7 +12,7 @@ tags:
 
 An audio file can support many various metada, such as the artist, album, copyright, year, genre. These are further used by audio streaming softwares to display the info to the user. 
 
-Suppose we have the following scenario. In out software we just created, or have been given, a audio file and want to attach some specific information to it. How to achieve it programatically without using third party softwares or some extensive libraries? In this tutorial we`ll use **Kotlin** as the programming language but the principle should be easy to adapt to any objective language of your interest. 
+Suppose we have the following scenario. In our software we just created, or have been given, a audio file and want to attach some specific information to it. How to achieve it programatically without using third party softwares or some extensive libraries? In this tutorial we`ll use **Kotlin** as the programming language but the principle should be easy to adapt to any objective language of your interest. 
 
 **Note:** It is expected that you already have the audio file, i.e. containing the mandatory RIFF header and the PCM data. Tutorials on how to create the audio file can be found for example 
 [here](wavaudiourl1) or [here](wavaudiourl2).
