@@ -1,5 +1,5 @@
 ---
-title: "Useful batch audio files processing using SOX"
+title: "Batch audio files processing using SOX"
 date: 2021-10-12T21:00:00-04:00
 categories:
   - tools
