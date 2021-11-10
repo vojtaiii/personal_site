@@ -175,11 +175,8 @@ And thats it! If you observe the audio in a software like Audacity, you`ll see t
 
 ![alt text][audacitypic]
 
-
 [wavaudiourl1]: https://stackoverflow.com/questions/22695723/create-valid-wav-file-header-for-streams-in-memory
 [wavaudiourl2]: https://stackoverflow.com/questions/9179536/writing-pcm-recorded-data-into-a-wav-file-java-android
 [infochunk]: https://www.recordingblogs.com/wiki/list-chunk-of-a-wave-file
 [riffheaderpic]: https://github.com/vojtaiii/personal_site/blob/gh-pages/assets/images/riff_metadata/riff_header.JPG?raw=true
 [audacitypic]: https://github.com/vojtaiii/personal_site/blob/gh-pages/assets/images/riff_metadata/audacity.JPG?raw=true
-
-
