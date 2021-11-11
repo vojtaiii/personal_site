@@ -18,5 +18,10 @@ Here I store some pretty useful commands when performing audio analysis and refi
 for /r %i in (*.wav) do sox "%~ni.wav" "16khz\%~ni.wav" rate 16k
 ```
 
+### Change the bit resolution of multiple files
+
+```shell
+for %i in (*.wav) do sox "%~ni.wav" -b 16 "16bit\%~ni.wav"
+```
 
 [soxurl]: http://sox.sourceforge.net/
