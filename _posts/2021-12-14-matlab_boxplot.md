@@ -35,4 +35,4 @@ Check the git repository below:
 <div class="github-card" data-github="vojtaiii/Matlab_boxplot_groupdiff" data-width="400" data-height="" data-theme="default"></div>
 <script src="//cdn.jsdelivr.net/github-cards/latest/widget.js"></script>
 
-[boxplotpic]: https://github.com/vojtaiii/personal_site/blob/gh-pages/assets/images/matlab_boxplots/boxplot.png?raw=true
+[boxplotpic]: https://github.com/vojtaiii/personal_site/blob/gh-pages/assets/images/matlab_boxplots/boxplot.PNG?raw=true
