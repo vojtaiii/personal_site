@@ -1,6 +1,6 @@
 ---
 title: "Randomize files in a folder"
-date: 2022-02-08T21:00:00-04:00
+date: 2022-02-05T21:00:00-04:00
 categories:
   - tools
 tags:
