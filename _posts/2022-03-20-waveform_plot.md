@@ -11,7 +11,7 @@ tags:
 
 The following code processes an input sound waveform and outputs its envelope-like style plot:
 
-![alt text][waveplotpic]
+![alt text][waveformpic]
 
 This might come in handy for various illustrational purposes. Feel free to modify the parameters.
 
