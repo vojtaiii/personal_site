@@ -40,7 +40,7 @@ eUp = eUp(1:decim:end)'; eLo = eLo(1:decim:end)';
 yAx = [eUp, fliplr(eLo)];
 
 % specify the color as RGB triplet
-color = 123/255, 141/255, 191/255;
+color = [123/255, 141/255, 191/255];
 
 figure(1)
 fill(xAx, yAx, color)
