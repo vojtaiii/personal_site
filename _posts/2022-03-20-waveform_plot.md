@@ -13,7 +13,7 @@ The following code processes an input sound waveform and outputs its envelope-li
 
 ![alt text][waveformpic]
 
-This might come in handy for various illustrational purposes. Feel free to modify the parameters.
+This might come in handy for various illustrational purposes. Feel free to modify the parameters. blob
 
 ```matlab
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
