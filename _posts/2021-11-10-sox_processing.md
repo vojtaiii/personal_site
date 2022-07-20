@@ -24,6 +24,14 @@ for /r %i in (*.wav) do sox "%~ni.wav" "16khz\%~ni.wav" rate 16k
 for %i in (*.wav) do sox "%~ni.wav" -b 16 "16bit\%~ni.wav"
 ```
 
+### Normalize multiple audio files
+
+Specify only the maximum aplitude (here -1.0 dB) bellow the clipping level (0.0 dB). The results are stored in a folder `normalized` on the same level as original.
+
+```shell
+for /r %i in (*.wav) do sox "%~ni.wav" "..\normalized\%~ni_norm.wav" norm -1.0
+```
+
 ### Rename multiple files in the folder at once
 
 The script asks for a root word and then renames all *.wav files in the current folder to root_1, root_2, root_3...
