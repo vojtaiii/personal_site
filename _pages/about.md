@@ -23,6 +23,12 @@ vojta.illner (at) gmail.com
 
 ## Published articles
 
+T. Kouba, V. Illner, and J. Rusz, Study protocol for using a smartphone application to investigate speech biomarkers of Parkinson’s
+disease and other synucleinopathies: SMARTSPEECH, BMJ Open, 12(6) (2022). [Link here](https://bmjopen.bmj.com/content/12/6/e059871)
+
+V. Illner, T. Tykalová, M. Novotný, J. Klempíř, P. Dušek, and J. Rusz, Toward Automated Articulation Rate Analysis via Connected Speech in Dysarthrias,
+Journal of Speech, Language, and Hearing Research, 65(4) (2022) pp. 1386-1401. [Link here](https://pubs.asha.org/doi/10.1044/2021_JSLHR-21-00549)
+
 V. Illner, P. Sovka, J. Rusz, Validation of freely-available pitch detection algorithms across
 various noise levels in assessing speech captured by smartphone in Parkinson’s disease,
-Biomed. Sig. Proc. and Control 58 (2020) 101831. [Link here](https://www.sciencedirect.com/science/article/abs/pii/S1746809419304124)
+Biomed. Sig. Proc. and Control 58 (2020) pp. 101831. [Link here](https://www.sciencedirect.com/science/article/abs/pii/S1746809419304124)
