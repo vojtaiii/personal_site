@@ -1,0 +1,29 @@
+---
+title: "Audio features extraction tools"
+date: 2022-10-25T21:00:00-04:00
+categories:
+  - tools
+tags:
+  - wav
+  - audio processing
+  - audio features
+  - deep learning
+---
+
+List of tool utilizing feature extraction from audio files and transcibed audio files (text).
+
+## From waveform
+
+### openSMILE
+
+Open-source audio feature extraction tool, notably know to extract the widely used extended Geneva Minimalistic Acoustic ParameterSet(eGeMAPS).
+
+<https://www.audeering.com/research/opensmile/>
+
+### DeepSpectrum
+
+DeepSpectrum features extract spectral images from speech instances and are then fed in to pre-trained image recognition Convolutional Neural Networks(CNNs),and the resulting activations acan be extracted as feature vectors.
+
+<https://github.com/DeepSpectrum/DeepSpectrum>
+
+## From trascriptions
