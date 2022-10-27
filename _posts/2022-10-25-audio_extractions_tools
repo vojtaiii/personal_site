@@ -18,12 +18,12 @@ List of tool utilizing feature extraction from audio files and transcibed audio 
 
 Open-source audio feature extraction tool, notably know to extract the widely used extended Geneva Minimalistic Acoustic ParameterSet(eGeMAPS).
 
-<https://www.audeering.com/research/opensmile/>
+https://www.audeering.com/research/opensmile/
 
 ### DeepSpectrum
 
 DeepSpectrum features extract spectral images from speech instances and are then fed in to pre-trained image recognition Convolutional Neural Networks(CNNs),and the resulting activations acan be extracted as feature vectors.
 
-<https://github.com/DeepSpectrum/DeepSpectrum>
+https://github.com/DeepSpectrum/DeepSpectrum
 
 ## From trascriptions
