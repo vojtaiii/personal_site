@@ -9,59 +9,36 @@ tags:
   - audio processing
 ---
 
-The following MATLAB script takes all files in `cmd` specified by the given extension and randomly renames them, including an appendix given in `lastName`.
-
-Author: Michal Šimek
+The following MATLAB script takes all files in `cmd` specified by the given extension and renames them in a random order, given the root string `root`.
 
 ```matlab
-% rename.m
-% Author: Michal Simek
-% CTU FEE, February 2022
-clc,clear
+% Rename files in the folder in random order
+% Vojta Illner
+% March 2023
 
-files=dir('*.wav');
+extension = '*.wav';
+root = 'AUQ';
+names_table = "names_table.csv";
+
+files=dir(extension);
 n=length(files);
-m=n;
-p = randperm(n,m);
+p = randperm(n);
 namevector = {files.name};
-ll = ['a' 'b' 'c' 'd' 'e'];
-y = cell(5,1);
-lastName = '_phon';
 
-i = 1;
-fileID = fopen('new_names.txt','w');
+f = waitbar(0, 'Renaming files...');
+oldnames = strings(n,1);
+newnames = strings(n,1);
+for i = 1 : n
+    waitbar(1/i, f, 'Renaming files...');
+    oldnames(i) = namevector{p(i)};
+    newnames(i) = strcat(root, '_', string(i), strrep(extension, '*', ''));
 
-while ~isempty(p) 
-    name=strrep(files(p(1)).name,'.WAV','');
-    name=strrep(name,'.wav','');
-    ind = find(contains(namevector,name(1:5)));
-    c = ismember(p, ind);
-   
-    name = namevector(ind);
-    
-    for k = 1:length(name)
-        [y{k}, Fs]=audioread(name{k});
-    end
-      
-    
-    if(i<10)
-        for k = 1:length(name)
-            file{k} = ['00' num2str(i) ll(k) lastName '.wav'];
-            audiowrite(file{k},y{k},Fs)
-        end
-    else
-        for k = 1:length(name)
-            file{k} = ['0' num2str(i) ll(k) lastName '.wav'];
-            audiowrite(file{k},y{k},Fs)
-        end
-    end
-    
-    for s = 1:length(name)
-        fprintf(fileID,[file{s} ' ' name{s} '\n']);
-    end
-    delete(files(p(c)).name)
-    p(c) = [];
-    i = i+1;
+    % rename the file
+    movefile(oldnames(i), newnames(i))
 end
-fclose(fileID);
+
+% Create a link file
+writematrix([oldnames, newnames], names_table);
+
+close(f)
 ```
