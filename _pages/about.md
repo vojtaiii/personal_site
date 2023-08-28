@@ -23,6 +23,15 @@ vojta.illner (at) gmail.com
 
 ## Published journal articles
 
+V. Illner, P. Krýže, J. Švihlík, M. Sousa, P. Krack, E. Tripoliti, R. Jech, and J. Rusz, Which aspects of motor speech disorder are captured by Mel Frequency Cepstral Coefficients?
+Evidence from the change in STN-DBS conditions in Parkinson’s disease, INTERSPEECH 2023. Nomination for the ISCA best student submission. [Link here](https://www.isca-speech.org/archive/interspeech_2023/illner23_interspeech.html)
+
+J. Švihlík, V. Illner, P. Krýže, M. Sousa, P. Krack, E. Tripoliti, R. Jech, and J. Rusz, Relationship between LTAS-based spectral moments and acoustic parameters of hypokinetic dysarthria
+in Parkinson’s disease, INTERSPEECH 2023. [Link here](https://www.isca-speech.org/archive/interspeech_2023/svihlik23_interspeech.html)
+
+V. Illner, T. Tykalová, D. Škrabal, J. Klempíř, and J. Rusz, Automated Vowel Articulation Analysis in Connected Speech Among Progressive Neurological Diseases,
+Dysarthria Types, and Dysarthria Severities, Journal of Speech Language and Hearing Research, 66(1) (2023) pp. 1-22. [Link here](https://pubs.asha.org/doi/10.1044/2023_JSLHR-22-00526)
+
 T. Kouba, V. Illner, and J. Rusz, Study protocol for using a smartphone application to investigate speech biomarkers of Parkinson’s
 disease and other synucleinopathies: SMARTSPEECH, BMJ Open, 12(6) (2022). [Link here](https://bmjopen.bmj.com/content/12/6/e059871)
 
