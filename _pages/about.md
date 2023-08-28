@@ -21,7 +21,7 @@ office: C4/461 CTU FEE
 vojtech.illner (at) fel.cvut.cz
 vojta.illner (at) gmail.com
 
-## Published journal articles
+## Published articles
 
 V. Illner, P. Krýže, J. Švihlík, M. Sousa, P. Krack, E. Tripoliti, R. Jech, and J. Rusz, Which aspects of motor speech disorder are captured by Mel Frequency Cepstral Coefficients?
 Evidence from the change in STN-DBS conditions in Parkinson’s disease, INTERSPEECH 2023. Nomination for the ISCA best student submission. [Link here](https://www.isca-speech.org/archive/interspeech_2023/illner23_interspeech.html)
