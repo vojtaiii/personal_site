@@ -21,6 +21,11 @@ office: C4/461 CTU FEE
 vojtech.illner (at) fel.cvut.cz
 vojta.illner (at) gmail.com
 
+## Teaching
+
+Adaptive signal processing course, exercises in the winter semester at CTU FEE. 
+[Syllabus](https://intranet.fel.cvut.cz/cz/education/bk/predmety/55/01/p5501806.html).
+
 ## Published articles
 
 V. Illner, P. Krýže, J. Švihlík, M. Sousa, P. Krack, E. Tripoliti, R. Jech, and J. Rusz, Which aspects of motor speech disorder are captured by Mel Frequency Cepstral Coefficients?
